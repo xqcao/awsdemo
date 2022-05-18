@@ -30,16 +30,16 @@ const PyLambda = () => {
       <ol>
       <li>
         <p>Update zip file to s3 bucket</p>
-        <img width="650" height="400"src="/images/upload.png" alt="upload"/>
+        <img width="650" height="400"src="./images/upload.png" alt="upload"/>
       </li>
   
       <li>
         <p>new one lambda layer and link to s3 bucket zip file use objectUrl(image source from web)</p>
-        <img width="650" height="400"src="/images/layer.png" alt="layer"/>
+        <img width="650" height="400"src="./images/layer.png" alt="layer"/>
       </li>
       <li>
         <p>Create new lambda python function(image source from web)</p>
-        <img width="650" height="400"src="/images/func.png" alt="func"/>
+        <img width="650" height="400"src="./images/func.png" alt="func"/>
         <CopyBlock
         text={pyBody}
         language="python"
