@@ -26,20 +26,20 @@ const PyLambda = () => {
     <div>
       <h2>python and lambda</h2>
       <h3>AWS Lambda use Amazon Linux operating system. Idea is download Pandas and NumPy compatible with Amazon Linux, so make sure pandas and numpy are packaged from Linux like ubuntu</h3>
-      <i>this page show <a href="/docker">use ubuntu docker image container to create the dependencies zip package</a> and upload to s3 bucket</i>
+      <i>this page show <a href="awsdemo/docker">use ubuntu docker image container to create the dependencies zip package</a> and upload to s3 bucket</i>
       <ol>
       <li>
         <p>Update zip file to s3 bucket</p>
-        <img width="650" height="400"src="images/upload.png" alt="upload"/>
+        <img width="650" height="400"src="awsdemo/images/upload.png" alt="upload"/>
       </li>
   
       <li>
         <p>new one lambda layer and link to s3 bucket zip file use objectUrl(image source from web)</p>
-        <img width="650" height="400"src="images/layer.png" alt="layer"/>
+        <img width="650" height="400"src="awsdemo/images/layer.png" alt="layer"/>
       </li>
       <li>
         <p>Create new lambda python function(image source from web)</p>
-        <img width="650" height="400"src="images/func.png" alt="func"/>
+        <img width="650" height="400"src="awsdemo/images/func.png" alt="func"/>
         <CopyBlock
         text={pyBody}
         language="python"
