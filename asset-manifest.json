@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/awsdemo/static/css/main.46c7d540.css",
-    "main.js": "/awsdemo/static/js/main.28dd3673.js",
+    "main.js": "/awsdemo/static/js/main.16725dc2.js",
     "react-syntax-highlighter/refractor-core-import.js": "/awsdemo/static/js/react-syntax-highlighter/refractor-core-import.d241d954.chunk.js",
     "react-syntax-highlighter_languages_refractor_abap.js": "/awsdemo/static/js/react-syntax-highlighter_languages_refractor_abap.925f613b.chunk.js",
     "react-syntax-highlighter_languages_refractor_actionscript.js": "/awsdemo/static/js/react-syntax-highlighter_languages_refractor_actionscript.c4093d61.chunk.js",
@@ -156,7 +156,7 @@
     "react-syntax-highlighter_languages_refractor_yaml.js": "/awsdemo/static/js/react-syntax-highlighter_languages_refractor_yaml.0b663285.chunk.js",
     "index.html": "/awsdemo/index.html",
     "main.46c7d540.css.map": "/awsdemo/static/css/main.46c7d540.css.map",
-    "main.28dd3673.js.map": "/awsdemo/static/js/main.28dd3673.js.map",
+    "main.16725dc2.js.map": "/awsdemo/static/js/main.16725dc2.js.map",
     "refractor-core-import.d241d954.chunk.js.map": "/awsdemo/static/js/react-syntax-highlighter/refractor-core-import.d241d954.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_abap.925f613b.chunk.js.map": "/awsdemo/static/js/react-syntax-highlighter_languages_refractor_abap.925f613b.chunk.js.map",
     "react-syntax-highlighter_languages_refractor_actionscript.c4093d61.chunk.js.map": "/awsdemo/static/js/react-syntax-highlighter_languages_refractor_actionscript.c4093d61.chunk.js.map",
@@ -312,6 +312,6 @@
   },
   "entrypoints": [
     "static/css/main.46c7d540.css",
-    "static/js/main.28dd3673.js"
+    "static/js/main.16725dc2.js"
   ]
 }
