@@ -30,6 +30,13 @@ EOF
     sectionTitle: "Set up required sysctl params",
   },
   {
+    description: "Reload sysctl System",
+    textBody: "sudo sysctl --system",
+    language: "shell",
+    showLineNumbers: false,
+    sectionTitle: "Reload sysctl",
+  },
+  {
     description:
       "Add the Kubic repository which host binary packages for Debian based systems. If using CRI-O with Kubernetes, install the version matching Kubernetes version you’ll setup.",
     textBody: `#Ubuntu 22.04/20.04:
